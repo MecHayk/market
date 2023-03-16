@@ -1,0 +1,26 @@
+.category {
+    margin-top: 20px;
+  }
+  
+  .title {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-top: 30px;
+  
+    h1 {
+      font-size: 35px;
+      margin-right: 20px;
+    }
+  
+    p {
+      font-size: 35px;
+    }
+  }
+
+    
+  .categoryWrapper {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+  }

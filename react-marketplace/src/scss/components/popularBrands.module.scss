@@ -1,0 +1,23 @@
+.popularBrands {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.brandsTitle {
+    h1 {
+      width: 100px;
+        font-size: 30px;
+    }
+}
+
+.brandsIcon {
+    text-align: center;
+  img {
+    width: 90px;
+    margin-left: 63px;
+    cursor: pointer;
+    
+  }
+}

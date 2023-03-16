@@ -1,0 +1,31 @@
+.emptyFav {
+    text-align: center;
+
+    h3 {
+        font-weight: 500;
+        font-size: 23px;
+        margin-bottom: 20px;
+    }
+
+    p {
+        font-size: 13px;
+        margin-bottom: 30px;
+    }
+
+    img {
+        width: 100px;
+    }
+
+    button {
+        width: 300px;
+        padding: 10px 20px 10px 20px;
+        background-color: white;
+        border-radius: 5px;
+        border: 1px solid rgb(173, 169, 169);
+        cursor: pointer;
+    
+        &:hover {
+            border: 1px solid rgb(122, 122, 122);
+        }
+    }
+}

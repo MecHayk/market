@@ -1,0 +1,150 @@
+.navigate {
+  margin-top: 50px;
+}
+
+.navigateContent {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navigateButton {
+  button {
+    position: relative;
+    padding: 10px;
+    padding-left: 25px;
+    width: 150px;
+    cursor: pointer;
+    color: #0d6efd;
+    background-color: white;
+    border: 1px solid #0d6efd;
+    border-radius: 5px;
+
+    &:hover {
+      background-color: #0d6efd;
+      color: white;
+
+      svg {
+        path {
+          fill: white;
+        }
+      }
+    }
+  }
+
+  svg {
+    left: 5px;
+    top: 8px;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+  }
+}
+
+.navigateSearch {
+  border-bottom: 1px solid grey;
+  position: relative;
+
+  &:hover {
+    border-bottom: 1px solid #0d6efd;
+  }
+
+  svg {
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    cursor: pointer;
+
+    &:hover {
+      path {
+        fill: #0d6efd;
+      }
+    }
+  } 
+
+  input {
+    border: 0;
+    padding-bottom: 5px;
+    width: 800px;
+    font-size: 15px;
+  }
+
+  .activeInput {
+    border-bottom: 1px solid #0d6efd;
+  }
+
+  img {
+    cursor: pointer;
+    width: 15px;
+    position: absolute;
+    right: 25px;
+  }
+}
+
+.navigateProfile {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  cursor: pointer;
+
+  div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    svg {
+      margin-bottom: 5px;
+    }
+
+    &:hover {
+      p {
+        color: #0d6efd;
+      }
+      svg {
+        path {
+          fill: #0d6efd;
+        }
+      }
+    }
+  }
+
+  .cart {
+    position: relative;
+    .cartCount {
+      position: absolute;
+      width: 20px;
+      height: 20px;
+      border-radius: 50%;
+      text-align: center;
+      background-color: #0d6efd;
+      right: -5px;
+      top: -10px;
+      padding-top: 3px;
+      color: white;
+      font-size: 12px;
+    }
+  }
+
+  .favorites {
+    position: relative;
+    .favoriteCount {
+      position: absolute;
+      width: 20px;
+      height: 20px;
+      border-radius: 50%;
+      text-align: center;
+      background-color: #0d6efd;
+      right: 7px;
+      top: -10px;
+      padding-top: 3px;
+      color: white;
+      font-size: 12px;
+    }
+  }
+}
+
+
+
+

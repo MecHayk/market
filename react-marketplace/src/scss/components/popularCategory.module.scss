@@ -1,0 +1,50 @@
+.categoryBlock {
+  margin-top: 50px;
+
+  h1 {
+    font-size: 30px;
+    margin-bottom: 30px;
+  }
+}
+
+.categoryWrapper {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 10px;
+  column-gap: 5px;
+}
+
+.categoryCards {
+  cursor: pointer;
+  padding: 20px;
+  width: 290px;
+  height: 130px;
+  text-align: center;
+  background-color: white;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.09);
+
+  img {
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+
+  &:hover {
+    p {
+      color: #0d6efd;
+    }
+  }
+
+  p {
+    position: relative;
+    cursor: pointer;
+
+    &::after {
+      position: absolute;
+      content: '';
+      width: 20px;
+      height: 20px;
+      background-image: url(../../../public/img/category/arrow-right.svg);
+    }
+  }
+}

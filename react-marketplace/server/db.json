@@ -1,0 +1,739 @@
+{
+  "nootebooks": [
+    {
+      "id": 1,
+      "name": "Ноутбук Huawei MateBook D 15 BoD-WDH9, 15.6, IPS, Intel Core i5 1135G7 2.4ГГц, 8ГБ, 256ГБ SSD, Intel Iris Xe graphics ...",
+      "img": "https://cdn.citilink.ru/0irrQqSXuYe_bN6dWqnmh1BapOYlpqlTTzVikkKYe1Q/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1829247_v01_b.jpg",
+      "rating": 5,
+      "commentsCount": 50,
+      "price": 40990
+    },
+    {
+      "id": 2,
+      "name": "Ноутбук INFINIX Inbook XL23, 14, IPS, Intel Core i5 1135G7 2.4ГГц, 8ГБ, 512ГБ SSD, Intel Iris Xe graphics ...",
+      "img": "https://cdn.citilink.ru/s6fRasFEVGVo9rKqDFPKUhE0C4SNJDlql0s2RJLS43k/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1871322_v01_b.jpg",
+      "rating": 4.8,
+      "commentsCount": 1,
+      "price": 42990
+    },
+    {
+      "id": 3,
+      "name": "Ноутбук HIPER DZEN MTL1569, 15.6, IPS, Intel Core i7 1165G7 2.8ГГц, 16ГБ, 512ГБ SSD, NVIDIA GeForce MX450 - 2048 Мб ...",
+      "img": "https://cdn.citilink.ru/lQRF8Y7gEdfE9XuyorIBFDzDeJCvvjx0JDge4gZj04g/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1797197_v01_b.jpg",
+      "rating": 4.5,
+      "commentsCount": 2,
+      "price": 73990
+    },
+    {
+      "id": 4,
+      "name": "Ноутбук MSI GF63 Thin 11UD-206XRU, 15.6, IPS, Intel Core i5 11400H 2.7ГГц, 16ГБ, 512ГБ SSD, NVIDIA GeForce RTX 3050 Ti для ноутбуков - 4096 Мб ...",
+      "img": "https://cdn.citilink.ru/FmKgdo2Y8RzBaTG-tTOcMR9M79mbEOmgi_0xwnQ5Ndk/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1800489_v01_b.jpg",
+      "rating": 4.9,
+      "commentsCount": 9,
+      "price": 77990
+    },
+    {
+      "id": 5,
+      "name": "Ноутбук CHUWI Corebook X 14/8/256, 14, IPS, Intel Core i3 10110U 2.1ГГц, 8ГБ, 256ГБ SSD, Intel UHD Graphics ...",
+      "img": "https://cdn.citilink.ru/EcBYA2herBBn82QkArYoDHDnMJPskcMTNkEEbNVfsJM/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1775349_v01_b.jpg",
+      "rating": 4.7,
+      "commentsCount": 19,
+      "price": 40990
+    },
+    {
+      "id": 6,
+      "name": "Ультрабук Honor MagicBook 15, 15.6, IPS, AMD Ryzen 5 5500U 2.1ГГц, 8ГБ, 512ГБ SSD, AMD Radeon ...",
+      "img": "https://cdn.citilink.ru/gDrUVCZkPS91MGFW9w0aegJM5sC64CJQ2bQ7sdllznI/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1880121_v01_b.jpg",
+      "rating": 4.8,
+      "commentsCount": 13,
+      "price": 47990
+    },
+    {
+      "id": 7,
+      "name": "Ноутбук MSI Sword 15 A12UE-487XRU, 15.6, IPS, Intel Core i7 12700H 2.1ГГц, 16ГБ, 512ГБ SSD, NVIDIA GeForce RTX 3060 для ноутбуков - 6144 Мб ...",
+      "img": "https://cdn.citilink.ru/dv1UF3DGhHzTrWPv37mMHyTDWnnI9qAsavznsWHiQFk/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1660309_v01_b.jpg",
+      "rating": 4.6,
+      "commentsCount": 20,
+      "price": 104990
+    },
+    {
+      "id": 8,
+      "name": "Ноутбук ASUS A516JP-EJ461, 15.6, Intel Core i7 1065G7 1.3ГГц, 16ГБ, 512ГБ SSD, NVIDIA GeForce MX330 - 2048 Мб ...",
+      "img": "https://cdn.citilink.ru/lc01lCFD8A2gVkd1zVPQvXC7IL168oufDdV2QvX72uE/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1882095_v01_b.jpg",
+      "rating": 4.5,
+      "commentsCount": 15,
+      "price": 54990
+    },
+    {
+      "id": 9,
+      "name": "Ноутбук Digma EVE 15 C423, 15.6, IPS, AMD Ryzen 3 3200U 2.6ГГц, 16ГБ, 512ГБ SSD, AMD Radeon Vega 3, Windows 11 Professional ...",
+      "img": "https://cdn.citilink.ru/17el0V5flFgivVtpDh0ujS6BIZTBLkGYirrhl388bMs/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1783763_v01_b.jpg",
+      "rating": 4.4,
+      "commentsCount": 7,
+      "price": 36990
+    },
+    {
+      "id": 10,
+      "name": "Ноутбук Acer Aspire 1 A114-33-P7VD, 14, Intel Pentium Silver N6000 1.1ГГц, 8ГБ, 128ГБ eMMC, Intel UHD Graphics ...",
+      "img": "https://cdn.citilink.ru/iq8JxWxwfSVn2-bAuTfLN6uN-6x_l_fE4kOVC4M5OHI/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1439570_v01_b.jpg",
+      "rating": 4.7,
+      "commentsCount": 10,
+      "price": 31990
+    },
+    {
+      "id": 11,
+      "name": "Ноутбук Huawei MateBook D 15 BoD-WDH9, 15.6, IPS, Intel Core i5 1135G7 2.4ГГц, 8ГБ, 256ГБ SSD, Intel Iris Xe graphics ...",
+      "img": "https://cdn.citilink.ru/0irrQqSXuYe_bN6dWqnmh1BapOYlpqlTTzVikkKYe1Q/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1829247_v01_b.jpg",
+      "rating": 5,
+      "commentsCount": 50,
+      "price": 40990
+    },
+    {
+      "id": 12,
+      "name": "Ноутбук INFINIX Inbook XL23, 14, IPS, Intel Core i5 1135G7 2.4ГГц, 8ГБ, 512ГБ SSD, Intel Iris Xe graphics ...",
+      "img": "https://cdn.citilink.ru/s6fRasFEVGVo9rKqDFPKUhE0C4SNJDlql0s2RJLS43k/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1871322_v01_b.jpg",
+      "rating": 4.8,
+      "commentsCount": 1,
+      "price": 42990
+    },
+    {
+      "id": 13,
+      "name": "Ноутбук HIPER DZEN MTL1569, 15.6, IPS, Intel Core i7 1165G7 2.8ГГц, 16ГБ, 512ГБ SSD, NVIDIA GeForce MX450 - 2048 Мб ...",
+      "img": "https://cdn.citilink.ru/lQRF8Y7gEdfE9XuyorIBFDzDeJCvvjx0JDge4gZj04g/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1797197_v01_b.jpg",
+      "rating": 4.5,
+      "commentsCount": 2,
+      "price": 73990
+    },
+    {
+      "id": 14,
+      "name": "Ноутбук MSI GF63 Thin 11UD-206XRU, 15.6, IPS, Intel Core i5 11400H 2.7ГГц, 16ГБ, 512ГБ SSD, NVIDIA GeForce RTX 3050 Ti для ноутбуков - 4096 Мб ...",
+      "img": "https://cdn.citilink.ru/FmKgdo2Y8RzBaTG-tTOcMR9M79mbEOmgi_0xwnQ5Ndk/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1800489_v01_b.jpg",
+      "rating": 4.9,
+      "commentsCount": 9,
+      "price": 77990
+    },
+    {
+      "id": 15,
+      "name": "Ноутбук CHUWI Corebook X 14/8/256, 14, IPS, Intel Core i3 10110U 2.1ГГц, 8ГБ, 256ГБ SSD, Intel UHD Graphics ...",
+      "img": "https://cdn.citilink.ru/EcBYA2herBBn82QkArYoDHDnMJPskcMTNkEEbNVfsJM/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1775349_v01_b.jpg",
+      "rating": 4.7,
+      "commentsCount": 19,
+      "price": 40990
+    },
+    {
+      "id": 16,
+      "name": "Ультрабук Honor MagicBook 15, 15.6, IPS, AMD Ryzen 5 5500U 2.1ГГц, 8ГБ, 512ГБ SSD, AMD Radeon ...",
+      "img": "https://cdn.citilink.ru/gDrUVCZkPS91MGFW9w0aegJM5sC64CJQ2bQ7sdllznI/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1880121_v01_b.jpg",
+      "rating": 4.8,
+      "commentsCount": 13,
+      "price": 47990
+    },
+    {
+      "id": 17,
+      "name": "Ноутбук MSI Sword 15 A12UE-487XRU, 15.6, IPS, Intel Core i7 12700H 2.1ГГц, 16ГБ, 512ГБ SSD, NVIDIA GeForce RTX 3060 для ноутбуков - 6144 Мб ...",
+      "img": "https://cdn.citilink.ru/dv1UF3DGhHzTrWPv37mMHyTDWnnI9qAsavznsWHiQFk/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1660309_v01_b.jpg",
+      "rating": 4.6,
+      "commentsCount": 20,
+      "price": 104990
+    },
+    {
+      "id": 18,
+      "name": "Ноутбук ASUS A516JP-EJ461, 15.6, Intel Core i7 1065G7 1.3ГГц, 16ГБ, 512ГБ SSD, NVIDIA GeForce MX330 - 2048 Мб ...",
+      "img": "https://cdn.citilink.ru/lc01lCFD8A2gVkd1zVPQvXC7IL168oufDdV2QvX72uE/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1882095_v01_b.jpg",
+      "rating": 4.5,
+      "commentsCount": 15,
+      "price": 54990
+    },
+    {
+      "id": 19,
+      "name": "Ноутбук Digma EVE 15 C423, 15.6, IPS, AMD Ryzen 3 3200U 2.6ГГц, 16ГБ, 512ГБ SSD, AMD Radeon Vega 3, Windows 11 Professional ...",
+      "img": "https://cdn.citilink.ru/17el0V5flFgivVtpDh0ujS6BIZTBLkGYirrhl388bMs/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1783763_v01_b.jpg",
+      "rating": 4.4,
+      "commentsCount": 7,
+      "price": 36990
+    },
+    {
+      "id": 20,
+      "name": "Ноутбук Acer Aspire 1 A114-33-P7VD, 14, Intel Pentium Silver N6000 1.1ГГц, 8ГБ, 128ГБ eMMC, Intel UHD Graphics ...",
+      "img": "https://cdn.citilink.ru/iq8JxWxwfSVn2-bAuTfLN6uN-6x_l_fE4kOVC4M5OHI/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1439570_v01_b.jpg",
+      "rating": 4.7,
+      "commentsCount": 10,
+      "price": 31990
+    }
+  ],
+
+  "computers": [
+    {
+      "id": 1,
+      "name": "Компьютер iRU Game 310H5GMA, Intel Core i5 11400F, DDR4 16ГБ, 1ТБ(SSD), NVIDIA GeForce RTX 3060 - 12288 Мб, Free DOS, черный [1859665]",
+      "img": "https://cdn.citilink.ru/l-qsQxLekWcwL7vEdfCj2LzyhojSbVVf7qlh-bGshik/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1859665_v02_b.jpg",
+      "rating": 4.8,
+      "commentsCount": 23,
+      "price": 77990
+    },
+    {
+      "id": 2,
+      "name": "Компьютер MSI Infinite 11SI-1611XRU, Intel Core i5 11400F, DDR4 16ГБ, 512ГБ(SSD), NVIDIA GeForce GTX 1660 Super - 6144 Мб, noOS, черный [9s6-b91591-1611]",
+      "img": "https://cdn.citilink.ru/Rr6bHNm-rhR2ydz7VSQmUVGo-BvIawLcTPouO4VxRMo/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1794769_v01_b.jpg",
+      "rating": 4.7,
+      "commentsCount": 39,
+      "price": 74990
+    },
+    {
+      "id": 3,
+      "name": "Компьютер iRU Home 310H5GE, Intel Core i3 10105, DDR4 16ГБ, 512ГБ(SSD), Intel UHD Graphics 630, Free DOS, черный [1829617]",
+      "img": "https://cdn.citilink.ru/lwFDukqo5nO77z1IttJLHnvsUNcholvFn1TyYcWc9jQ/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1829617_v01_b.jpg",
+      "rating": 4.9,
+      "commentsCount": 19,
+      "price": 31490
+    },
+    {
+      "id": 4,
+      "name": "Компьютер Acer Aspire XC-830, Intel Celeron J4025, DDR4 4ГБ, 128ГБ(SSD), Intel UHD Graphics 600, CR, Endless, черный [dt.be8er.007]",
+      "img": "https://cdn.citilink.ru/mcY7uro__rvi_4BCiNSzfxb331dY7DTFXcdb-tiI888/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1607557_v01_b.jpg",
+      "rating": 4.8,
+      "commentsCount": 25,
+      "price": 11490
+    },
+    {
+      "id": 5,
+      "name": "Компьютер Lenovo V55t-15API, AMD Ryzen 3 3200G, DDR4 8ГБ, 256ГБ(SSD), AMD Radeon Vega 8, CR, noOS, черный [11ccs08700]",
+      "img": "https://cdn.citilink.ru/Elf-WfEMBgHV3fy4aF0LOMQDfeIfZcoE6MUxdDTczu8/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1636162_v01_b.jpg",
+      "rating": 4.7,
+      "commentsCount": 19,
+      "price": 32490
+    },
+    {
+      "id": 6,
+      "name": "Компьютер GIGABYTE GB-AMSI9N8I-2051, Intel Core i9 11900K, DDR4 32ГБ, 2ТБ + 1000ГБ(SSD), NVIDIA GeForce RTX 3080 - 10240 Мб, noOS, черный [9bams2051-ek-10]",
+      "img": "https://cdn.citilink.ru/vFN88G1EVbsK1mPH0R2ca4Xq7ScbNz0mlWU9TvzUEYY/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1808699_v01_b.jpg",
+      "rating": 4.8,
+      "commentsCount": 13,
+      "price": 209990
+    },
+    {
+      "id": 7,
+      "name": "Компьютер MSI Codex 5 11SI-465XRU, Intel Core i5 11400F, DDR4 16ГБ, 512ГБ(SSD), NVIDIA GeForce GTX 1660 Super - 6144 Мб, noOS, черный [9s6-b93051-465]",
+      "img": "https://cdn.citilink.ru/NOfQRrepuUuBPXn30drBqujOifuXRjWPyNXCBEr7K6M/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1552337_v01_b.jpg",
+      "rating": 4.6,
+      "commentsCount": 20,
+      "price": 97990
+    },
+    {
+      "id": 8,
+      "name": "Компьютер iRU Office 310H5SFP, Intel Core i3 10105, DDR4 16ГБ, 256ГБ(SSD), Intel UHD Graphics 630, Free DOS, черный [1863220]",
+      "img": "https://cdn.citilink.ru/hNALrZp_0tFl83Ky4pXI2bY10RydtfvODr4C0tz9cSY/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1863220_v01_b.jpg",
+      "rating": 4.5,
+      "commentsCount": 15,
+      "price": 28990
+    },
+    {
+      "id": 9,
+      "name": "Компьютер MSI Infinite S3 12SI-605XRU, Intel Core i5 12400F, DDR4 16ГБ, 512ГБ(SSD), NVIDIA GeForce GTX 1660 Super - 6144 Мб, noOS, черный [9s6-b93821-605]",
+      "img": "https://cdn.citilink.ru/pqbt0aP6QfRtVxqzUCw9odq7O07QMqGvFs8mOywWZbw/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1856651_v01_b.jpg",
+      "rating": 4.4,
+      "commentsCount": 7,
+      "price": 74990
+    },
+    {
+      "id": 10,
+      "name": "Компьютер Acer Aspire TC-1660, Intel Core i5 11400F, DDR4 16ГБ, 512ГБ(SSD), NVIDIA GeForce GTX 1650 - 4096 Мб, noOS, черный [dg.bgzer.00e]",
+      "img": "https://cdn.citilink.ru/z321QkgjntxKH3g8evu8gpuxsROH-tMRkaJNuaBO4fc/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1537005_v01_b.jpg",
+      "rating": 4.7,
+      "commentsCount": 10,
+      "price": 65990
+    }
+  ],
+  "fridges": [
+    {
+      "id": 1,
+      "name": "Холодильник двухкамерный Beko B3RCNK402HW Total No Frost, белый",
+      "img": "https://cdn.citilink.ru/NsFSntTWvO3JcyjVoJAwQcy9Icft4Xx7oYVDSmn3umY/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1561132_v01_b.jpg",
+      "rating": 4.8,
+      "commentsCount": 23,
+      "price": 39990
+    },
+    {
+      "id": 2,
+      "name": "Холодильник двухкамерный Liebherr CNbef 5203 бежевый",
+      "img": "https://cdn.citilink.ru/c8nrJn01e4OoDFDFi6yF-boDCeHqPrZPrkzEcW4ETr0/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1775679_v01_b.jpg",
+      "rating": 4.7,
+      "commentsCount": 39,
+      "price": 55990
+    },
+    {
+      "id": 3,
+      "name": "Холодильник двухкамерный Liebherr CBNsfd 5223 серебристый",
+      "img": "https://cdn.citilink.ru/5WHkPSCWEY7Sta9VgvUUka0MF-kE2hR6zSn1dcGXgfg/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1810027_v01_b.jpg",
+      "rating": 4.9,
+      "commentsCount": 19,
+      "price": 81990
+    },
+    {
+      "id": 4,
+      "name": "Холодильник двухкамерный Indesit ITR 4180 W Total No Frost, белый",
+      "img": "https://cdn.citilink.ru/qmm2l8scNljYUrFGWcL3bbcdbQT7vg8TKcgqzLiVtsU/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1472659_v01_b.jpg",
+      "rating": 4.8,
+      "commentsCount": 25,
+      "price": 27990
+    },
+    {
+      "id": 5,
+      "name": "Холодильник двухкамерный NORDFROST ERB 432 032 белый",
+      "img": "https://cdn.citilink.ru/ZMAVT02ddY9lkw7Yty7n62gmCjJFx-x4CEqHs7PIVUs/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1530145_v01_b.jpg",
+      "rating": 4.7,
+      "commentsCount": 19,
+      "price": 25520
+    },
+    {
+      "id": 6,
+      "name": "Холодильник двухкамерный Beko RCNK310KC0S Total No Frost, серебристый",
+      "img": "https://cdn.citilink.ru/6G9c98W9-kRQnVLiPzkY3X3pdryaXgSLceSq-68nAs0/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/485786_v01_b.jpg",
+      "rating": 4.8,
+      "commentsCount": 13,
+      "price": 32990
+    },
+    {
+      "id": 7,
+      "name": "Холодильник двухкамерный Beko RCNK335K00W Total No Frost, белый",
+      "img": "https://cdn.citilink.ru/apC9cK794ABiiWnJJEdMEe3tDx10oWxls27ZWdo_F5c/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/485958_v01_b.jpg",
+      "rating": 4.6,
+      "commentsCount": 20,
+      "price": 35990
+    },
+    {
+      "id": 8,
+      "name": "Холодильник двухкамерный Beko CNMV5335E20VXR Total No Frost, стальной антрацит",
+      "img": "https://cdn.citilink.ru/ApCRfMOqaoK72eG159ZvgjsMYl0gLOqdW9M0P193C2I/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1622108_v01_b.jpg",
+      "rating": 4.5,
+      "commentsCount": 15,
+      "price": 38990
+    },
+    {
+      "id": 9,
+      "name": "Холодильник двухкамерный Beko B3RCNK402HX Total No Frost, нержавеющая сталь",
+      "img": "https://cdn.citilink.ru/YyOm7fG20N1WsS_WyYqO8pYmOU2lu4oCo-Ir6MgC-W8/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1561134_v01_b.jpg",
+      "rating": 4.4,
+      "commentsCount": 7,
+      "price": 41990
+    },
+    {
+      "id": 10,
+      "name": "Холодильник двухкамерный LG GA-B379SQUL Total No Frost, инверторный белый",
+      "img": "https://cdn.citilink.ru/ZKyYu53NqjkQXFVv1NYxU_oRzg9X3OWVcEhw8Q22Hfk/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1117358_v01_b.jpg",
+      "rating": 4.7,
+      "commentsCount": 10,
+      "price": 69670
+    }
+  ],
+  "monitors": [
+    {
+      "id": 1,
+      "name": "Монитор Huawei MateView SE SSN-24 '23.8', черный [53060683]",
+      "img": "https://cdn.citilink.ru/0TNxrdFiw4S_--tipHwneIf_jLaGkbqWaFKI6b4CG6o/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1777568_v01_b.jpg",
+      "rating": 4.8,
+      "commentsCount": 23,
+      "price": 10990
+    },
+    {
+      "id": 2,
+      "name": "Монитор игровой AOC Gaming G2490VXA '23.8' черный/красный",
+      "img": "https://cdn.citilink.ru/HHecyeMbVzzhqDbqyWOSALBO3Kpr8x5_8Lvfn-eKIqc/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1443445_v01_b.jpg",
+      "rating": 4.7,
+      "commentsCount": 39,
+      "price": 16990
+    },
+    {
+      "id": 3,
+      "name": "Монитор Digma DM-MONF2410 '23.8', стальной",
+      "img": "https://cdn.citilink.ru/_6QxIG_kCY_q-L3jYhP6C97xdv7yzkCggbcBsqsoAfo/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1427635_v01_b.jpg",
+      "rating": 4.9,
+      "commentsCount": 19,
+      "price": 9990
+    },
+    {
+      "id": 4,
+      "name": "Монитор Acer SB271bmix '27', черный [um.hs1ee.006]",
+      "img": "https://cdn.citilink.ru/JplJEU-_BEaIFiN1OdJUCvKNBZfIA4arBeFzsrPSV8w/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1518261_v01_b.jpg",
+      "rating": 4.8,
+      "commentsCount": 25,
+      "price": 14240
+    },
+    {
+      "id": 5,
+      "name": "Монитор игровой GIGABYTE G27QC A '27' черный [20vm0-gg27qcabt-1ekr]",
+      "img": "https://cdn.citilink.ru/20D47hU-lMSVXhWDM6MJ04GMDJnGNMLyEUVuWpyNr2o/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1509092_v01_b.jpg",
+      "rating": 4.7,
+      "commentsCount": 19,
+      "price": 28690
+    },
+    {
+      "id": 6,
+      "name": "Монитор игровой ASUS TUF Gaming VG249Q '24' темно-серый [90lm05e0-b03170]",
+      "img": "https://cdn.citilink.ru/kbuI2VT6IRyTycVeSiQsoY95PUw2ZvneV3Rl6JVUYjY/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1828709_v01_b.jpg",
+      "rating": 4.8,
+      "commentsCount": 13,
+      "price": 17990
+    },
+    {
+      "id": 7,
+      "name": "Монитор игровой Acer KG282Kbmiipx '28' черный [um.px2ee.001]",
+      "img": "https://cdn.citilink.ru/WkSGglI_afTw6KSd0ocggg1CvWnZROiH9TrbGuQpwtg/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1507601_v01_b.jpg",
+      "rating": 4.6,
+      "commentsCount": 20,
+      "price": 27490
+    },
+    {
+      "id": 8,
+      "name": "Монитор AOC Value Line 24E1Q(00/01) '23.8', черный",
+      "img": "https://cdn.citilink.ru/YADoEmSFfSkPnsr9shkuGAYj2YLB7lUrYlFsL6febEw/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1069663_v01_b.jpg",
+      "rating": 4.5,
+      "commentsCount": 15,
+      "price": 14990
+    },
+    {
+      "id": 9,
+      "name": "Монитор Acer Nitro XZ342CUPbmiiphx '34', черный [um.cx2ee.p13]",
+      "img": "https://cdn.citilink.ru/d0QXSB-xA7ypO8XA44hupWJj_waS7IpgynFi5trhxas/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1507606_v01_b.jpg",
+      "rating": 4.4,
+      "commentsCount": 7,
+      "price": 34990
+    },
+    {
+      "id": 10,
+      "name": "Монитор игровой SunWind SUN-M27BG120 '27' черный",
+      "img": "https://cdn.citilink.ru/Rc2BnM_68wK-Zv0JMuXb52eVBeF1ecDnZzzXjBTzuPs/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1772343_v01_b.jpg",
+      "rating": 4.7,
+      "commentsCount": 10,
+      "price": 16990
+    }
+  ],
+  "processors": [
+    {
+      "id": 1,
+      "name": "Процессор Intel Core i5 11400F, LGA 1200, OEM",
+      "img": "https://cdn.citilink.ru/pR5RQqW0zSKSoIdwmhdyuFVnWkQ3__bS-xyUvOaPli8/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1722999_v01_b.jpg",
+      "rating": 4.8,
+      "commentsCount": 23,
+      "price": 11490
+    },
+    {
+      "id": 2,
+      "name": "Процессор Intel Core i3 10100F, LGA 1200, OEM",
+      "img": "https://cdn.citilink.ru/v5XnBV3Irazl1V0gTUzZEjf-p5I5nFNAb-9llfvXpmw/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1723000_v01_b.jpg",
+      "rating": 4.7,
+      "commentsCount": 39,
+      "price": 5690
+    },
+    {
+      "id": 3,
+      "name": "Процессор AMD Ryzen 5 5600X, SocketAM4, OEM [100-000000065]",
+      "img": "https://cdn.citilink.ru/lCukcOFqncHR2vy0ZtbXrKH5NcuTN5cHMTwO7vciAhs/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1773829_v01_b.jpg",
+      "rating": 4.9,
+      "commentsCount": 19,
+      "price": 14990
+    },
+    {
+      "id": 4,
+      "name": "Процессор AMD Ryzen 5 3600, SocketAM4, OEM [100-000000031]",
+      "img": "https://cdn.citilink.ru/H3WOsoVo2hwWBvI6DGTP2XqMumfG4iKbefEvlcpgDk8/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1773826_v01_b.jpg",
+      "rating": 4.8,
+      "commentsCount": 25,
+      "price": 9190
+    },
+    {
+      "id": 5,
+      "name": "Процессор Intel Core i5 12400F, LGA 1700, OEM",
+      "img": "https://cdn.citilink.ru/Ibco5PWOeIh2xl0LCKDXc2DJYL42zWaPeNQzH6FrrEw/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1782240_v01_b.jpg",
+      "rating": 4.7,
+      "commentsCount": 19,
+      "price": 14590
+    },
+    {
+      "id": 6,
+      "name": "Процессор AMD Ryzen 7 5800X, SocketAM4, OEM [100-000000063]",
+      "img": "https://cdn.citilink.ru/yDGptAs2LfWgUOSgu5Y4vFF3Mcg120wojOQuiCVxjxI/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1773839_v01_b.jpg",
+      "rating": 4.8,
+      "commentsCount": 13,
+      "price": 21990
+    },
+    {
+      "id": 7,
+      "name": "Процессор Intel Core i7 12700K, LGA 1700, OEM",
+      "img": "https://cdn.citilink.ru/gsPIAEXFzDdo2oO4v0Zk539vaCxdP-uUAmIhBUE72-4/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1791234_v01_b.jpg",
+      "rating": 4.6,
+      "commentsCount": 20,
+      "price": 32990
+    },
+    {
+      "id": 8,
+      "name": "Процессор AMD Ryzen 3 PRO 4350G, SocketAM4, OEM [100-000000148]",
+      "img": "https://cdn.citilink.ru/_1txA1aiYAnMyCWaVi5Db_E1rXl-spVyewFmAE5Fhb8/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1773851_v01_b.jpg",
+      "rating": 4.5,
+      "commentsCount": 15,
+      "price": 9590
+    },
+    {
+      "id": 9,
+      "name": "Процессор Intel Core i9 12900KF, LGA 1700, OEM",
+      "img": "https://cdn.citilink.ru/iSbOe7pMKhdCiCYCgcSF1_xb5Ae3Ojbyzgm7XjYDsIk/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1791233_v01_b.jpg",
+      "rating": 4.8,
+      "commentsCount": 7,
+      "price": 42990
+    },
+    {
+      "id": 10,
+      "name": "Процессор AMD A6 9500E, SocketAM4, OEM [ad9500ahm23ab]",
+      "img": "https://cdn.citilink.ru/wjZtnDrtCu_DyZkc14N_AaHf95xq7WXDSw88JENNhnI/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1824658_v01_b.jpg",
+      "rating": 4.7,
+      "commentsCount": 10,
+      "price": 1390
+    }
+  ],
+  "smartphones": [
+    {
+      "id": 1,
+      "name": "Смартфон Huawei nova Y61 4/64Gb, зеленый",
+      "img": "https://cdn.citilink.ru/uWmHSJm0R5I1HTC5eEP_Tw6CdaSkEq5Ib7kPOEXLIdw/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1892224_v01_b.jpg",
+      "rating": 4.8,
+      "commentsCount": 14,
+      "price": 9999
+    },
+    {
+      "id": 2,
+      "name": "Смартфон REALME C25s 4/64Gb, серый",
+      "img": "https://cdn.citilink.ru/G2SbWZZbasNvInlrdEsyhEjGWai65zvoksH8Bb12cRc/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1628173_v01_b.jpg",
+      "rating": 4.7,
+      "commentsCount": 23,
+      "price": 8990
+    },
+    {
+      "id": 3,
+      "name": "Смартфон INFINIX Hot 20i 4/64Gb, X665E, черный",
+      "img": "https://cdn.citilink.ru/qQWat3uoNcPPPnG1b_bOgNWOFYCrIOYOYRdOp28Wzlg/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1851634_v01_b.jpg",
+      "rating": 5,
+      "commentsCount": 4,
+      "price": 7490
+    },
+    {
+      "id": 4,
+      "name": "Смартфон REALME 8 6/128Gb, черный",
+      "img": "https://cdn.citilink.ru/KqL3YroNV7LK9ROi_eWfd1EzR0l93yN7dN1F5CEy9u4/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1517181_v01_b.jpg",
+      "rating": 4.8,
+      "commentsCount": 108,
+      "price": 19990
+    },
+    {
+      "id": 5,
+      "name": "Смартфон Samsung Galaxy A53 5G 8/256Gb, SM-A536E, черный",
+      "img": "https://cdn.citilink.ru/tbQCJq4CcCw6mgAZBW_9krVC0RYYx4J-6OuC67S5kjI/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1782655_v01_b.jpg",
+      "rating": 4.7,
+      "commentsCount": 22,
+      "price": 29530
+    },
+    {
+      "id": 6,
+      "name": "Смартфон vivo T1 6/128Gb, таинственная галактика",
+      "img": "https://cdn.citilink.ru/sW8mxiEBzIlKrMVEnUfnpR7-cMaWzfWpGnq4IBAfsFQ/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1804836_v01_b.jpg",
+      "rating": 4.9,
+      "commentsCount": 115,
+      "price": 17990
+    },
+    {
+      "id": 7,
+      "name": "Смартфон TECNO Spark 8C 4/64Gb, серебристый",
+      "img": "https://cdn.citilink.ru/zBzaOKpG89putGISyW_J7Up_AHQJ2xx5lBGLoKid6RI/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1744932_v01_b.jpg",
+      "rating": 4.3,
+      "commentsCount": 24,
+      "price": 6990
+    },
+    {
+      "id": 8,
+      "name": "Смартфон Xiaomi Poco C40 4/64Gb, зеленый",
+      "img": "https://cdn.citilink.ru/bv1rDeDpEYY8mBWjp43Psmclwptj2RK8XzVK-rY67qw/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1823506_v01_b.jpg",
+      "rating": 4.5,
+      "commentsCount": 2,
+      "price": 12060
+    },
+    {
+      "id": 9,
+      "name": "Смартфон Honor X8 6/128Gb, TFY-LX1, серебристый титан",
+      "img": "https://cdn.citilink.ru/7JEq7ViB7aQGZyDSFjNNX1CMGFDaRkDYsU6re_21fsY/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1723402_v01_b.jpg",
+      "rating": 5,
+      "commentsCount": 6,
+      "price": 20750
+    },
+    {
+      "id": 10,
+      "name": "Смартфон Apple iPhone 14 128Gb, A2881, темная ночь",
+      "img": "https://cdn.citilink.ru/tmtpDg8c8L2GMO82bh5jT31EnIvG3uyOsV3LQ4i4QT4/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1862618_v01_b.jpg",
+      "rating": 5,
+      "commentsCount": 2,
+      "price": 76290
+    }
+  ],
+  "tv": [
+    {
+      "id": 1,
+      "name": "'50' Телевизор Samsung UE50AU7500UXCE, 4K Ultra HD, черный, СМАРТ ТВ, Tizen OS",
+      "img": "https://cdn.citilink.ru/BuoAZUSxQflgexiY6dwzGbDQTN6YLJ2banfWkPbDp2U/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1781030_v01_b.jpg",
+      "rating": 4.8,
+      "commentsCount": 23,
+      "price": 50990
+    },
+    {
+      "id": 2,
+      "name": "'32' Телевизор Xiaomi MI TV P1, HD, черный, СМАРТ ТВ, Android TV",
+      "img": "https://cdn.citilink.ru/IkwK8If5ZLdunztorfi6OQS3RdLcatQeu5skZ3eH0zI/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1870721_v01_b.jpg",
+      "rating": 4.7,
+      "commentsCount": 39,
+      "price": 14990
+    },
+    {
+      "id": 3,
+      "name": "'50' Телевизор Samsung UE50BU8000UXCE, Crystal UHD, 4K Ultra HD, черный, СМАРТ ТВ, Tizen OS",
+      "img": "https://cdn.citilink.ru/s1sCR7Q8b4tXW3mIi5r0W731VPSzbhUaDbzSbYtDAJE/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1879370_v01_b.jpg",
+      "rating": 4.9,
+      "commentsCount": 19,
+      "price": 59990
+    },
+    {
+      "id": 4,
+      "name": "'43' Телевизор Xiaomi MI TV P1, 4K Ultra HD, черный, СМАРТ ТВ, Android TV",
+      "img": "https://cdn.citilink.ru/K4mdNchzeqa1qsoVp9ACWkMUsEZg1ErWScrV9czbvmg/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1870722_v01_b.jpg",
+      "rating": 4.8,
+      "commentsCount": 25,
+      "price": 26990
+    },
+    {
+      "id": 5,
+      "name": "'55' Телевизор Hisense 55U7HQ, ULED, 4K Ultra HD, черный, СМАРТ ТВ, VIDAA",
+      "img": "https://cdn.citilink.ru/GxMoth0HU6E7kg-Hdb0erpHwlK3HZNOQ7eh9GCeJlFQ/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1868071_v01_b.jpg",
+      "rating": 4.7,
+      "commentsCount": 19,
+      "price": 59990
+    },
+    {
+      "id": 6,
+      "name": "'32' Телевизор SunWind SUN-LED32XB200, HD, черный",
+      "img": "https://cdn.citilink.ru/T3DZ3W7OZsF1hXZbdM30zq2FUsQ5vwEhREtF0PUlw1A/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1779004_v01_b.jpg",
+      "rating": 4.8,
+      "commentsCount": 13,
+      "price": 7990
+    },
+    {
+      "id": 7,
+      "name": "'32' Телевизор Hyundai H-LED32BS5003, HD, черный, СМАРТ ТВ, Яндекс.ТВ",
+      "img": "https://cdn.citilink.ru/IMMA0SIlfZOh79orfD40hA5t4qj-0g_NDtFhnYVWodM/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1783621_v01_b.jpg",
+      "rating": 4.6,
+      "commentsCount": 20,
+      "price": 12990
+    },
+    {
+      "id": 8,
+      "name": "'50' Телевизор Xiaomi MI TV P1, 4K Ultra HD, черный, СМАРТ ТВ, Android TV",
+      "img": "https://cdn.citilink.ru/pBVvI_ooT-C-UsKuJEhlUwrCgLH7_Dpx-p2PGC5bWnw/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1870723_v01_b.jpg",
+      "rating": 4.5,
+      "commentsCount": 15,
+      "price": 34990
+    },
+    {
+      "id": 9,
+      "name": "'43' Телевизор Hisense 43A6BG, 4K Ultra HD, черный, СМАРТ ТВ, VIDAA Код товара: 1682634",
+      "img": "https://cdn.citilink.ru/wtjM-V6HHhIEJYqBx9c557KoLaB4O_yGi_a5nUaoaXg/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1682634_v01_b.jpg",
+      "rating": 4.4,
+      "commentsCount": 7,
+      "price": 24990
+    },
+    {
+      "id": 10,
+      "name": "'43' Телевизор TCL 43P637, 4K Ultra HD, черный, СМАРТ ТВ, Google TV",
+      "img": "https://cdn.citilink.ru/ZAomRdPW14HsYDUIz5C-sGR7NqYz_lkekJZLO12tykA/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1866990_v01_b.jpg",
+      "rating": 4.7,
+      "commentsCount": 10,
+      "price": 21990
+    }
+  ],
+  "washings": [
+    {
+      "id": 1,
+      "name": "Стиральная машина Indesit IWSD 51051 CIS, с фронтальной загрузкой, 5кг, 1000об/мин",
+      "img": "https://cdn.citilink.ru/T4XKX6cZYueaaNdc1lYh_-LXP7sxqSrkS7qI5I8bPqY/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1085756_v01_b.jpg",
+      "rating": 4.8,
+      "commentsCount": 23,
+      "price": 18990
+    },
+    {
+      "id": 2,
+      "name": "Стиральная машина суперузкая Candy Smart CS34 1052DB1/2-07, с фронтальной загрузкой, 5кг, 1000об/мин",
+      "img": "https://cdn.citilink.ru/p9J9B2PWk9CkOl3QR4D-ErJyxyxhdOiUD3efMCYWGHU/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1074992_v01_b.jpg",
+      "rating": 4.7,
+      "commentsCount": 39,
+      "price": 20990
+    },
+    {
+      "id": 3,
+      "name": "Стиральная машина Hotpoint-Ariston Front Loader VMSG 622 ST B, с фронтальной загрузкой, 6кг, 1200об/мин",
+      "img": "https://cdn.citilink.ru/D1VRdv-fjtOvjV_TIIklnbfd_m6CeBVwiFIZ4oswHZk/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1046827_v01_b.jpg",
+      "rating": 4.9,
+      "commentsCount": 19,
+      "price": 24990
+    },
+    {
+      "id": 4,
+      "name": "Стиральная машина суперузкая Indesit EcoTime IWUB 4105, с фронтальной загрузкой, 4кг, 1000об/мин",
+      "img": "https://cdn.citilink.ru/7QClaGbPnMHEOkZjk6sCWGPbkZAh7tVUbgsHOGdPGU8/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/592256_v01_b.jpg",
+      "rating": 4.8,
+      "commentsCount": 25,
+      "price": 17990
+    },
+    {
+      "id": 5,
+      "name": "Стиральная машина суперузкая Hotpoint-Ariston Front Loader VMUF 501 B, с фронтальной загрузкой, 5кг, 1000об/мин",
+      "img": "https://cdn.citilink.ru/pXzzs6yMwfK4RX9_ZmNbAxCrZWNX5AGQ8eD6cNtjb1A/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/335929_v01_b.jpg",
+      "rating": 4.7,
+      "commentsCount": 19,
+      "price": 21990
+    },
+    {
+      "id": 6,
+      "name": "Стиральная машина суперузкая Indesit EWUC 4105, с фронтальной загрузкой, 4кг, 1000об/мин",
+      "img": "https://cdn.citilink.ru/ocErS_3gmvJBLBwv6bgq3ewXN03o6h8ExUX_sao3dnE/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1099011_v01_b.jpg",
+      "rating": 4.8,
+      "commentsCount": 13,
+      "price": 17990
+    },
+    {
+      "id": 7,
+      "name": "Стиральная машина Beko WRE55P2BWW, с фронтальной загрузкой, 5кг, 1000об/мин",
+      "img": "https://cdn.citilink.ru/FotW1fWBgPX253DDyLrepzNchCteBcAkKdsh84dUEYw/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1031303_v01_b.jpg",
+      "rating": 4.6,
+      "commentsCount": 20,
+      "price": 26490
+    },
+    {
+      "id": 8,
+      "name": "Стиральная машина Gorenje W1HE72SFS, с фронтальной загрузкой, с паром, 7кг, 1200об/мин",
+      "img": "https://cdn.citilink.ru/EsXeORJpeTnYVOWlD3bswMfL8XZRPCJpKlqaHOaJ03Y/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1549318_v01_b.jpg",
+      "rating": 4.5,
+      "commentsCount": 15,
+      "price": 34790
+    },
+    {
+      "id": 9,
+      "name": "Стиральная машина Beko WSRE6512ZAA, с фронтальной загрузкой, с паром, 6кг, 1000об/мин",
+      "img": "https://cdn.citilink.ru/-Hc8oU_PlEI9UNB1c7H0KrOmJNXgFNgY61VH5lusuq4/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/1735660_v01_b.jpg",
+      "rating": 4.4,
+      "commentsCount": 7,
+      "price": 30490
+    },
+    {
+      "id": 10,
+      "name": "Стиральная машина Candy Aquamatic 135D2-07, с фронтальной загрузкой, 3.5кг, 1000об/мин",
+      "img": "https://cdn.citilink.ru/BG3YqbhQpg5C915INz69vG3S2Pw_EX3MGR727_hplVs/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/items/498331_v01_b.jpg",
+      "rating": 4.7,
+      "commentsCount": 10,
+      "price": 22990
+    }
+  ]
+}

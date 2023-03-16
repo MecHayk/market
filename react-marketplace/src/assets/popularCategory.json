@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "img": "https://rstatic.citilink.ru/react-ssr-app-catalog/838ded7e/_next/static/images/633894708cad242a91dfb92194c9b6e7.png",
+      "name": "Ноутбуки",
+      "page": "nootebooks"
+    },
+    {
+      "id": 2,
+      "img": "https://rstatic.citilink.ru/react-ssr-app-catalog/838ded7e/_next/static/images/efeff044102bff60dc56f0b71d89ebbf.png",
+      "name": "Смартфоны",
+      "page": "smartphones"
+    },
+    {
+      "id": 3,
+      "img": "https://rstatic.citilink.ru/react-ssr-app-catalog/838ded7e/_next/static/images/d6b29269b601f06b379d38a5766b0e57.png",
+      "name": "Телевизоры",
+      "page": "tvs"
+    },
+    {
+      "id": 4,
+      "img": "https://rstatic.citilink.ru/react-ssr-app-catalog/838ded7e/_next/static/images/f4a2e8728639ecb183a3a192c682eef2.png",
+      "name": "Мониторы",
+      "page": "monitors"
+    },
+    {
+      "id": 5,
+      "img": "https://rstatic.citilink.ru/react-ssr-app-catalog/838ded7e/_next/static/images/579b46acaa8dfa8ded0d7f45a64722f9.png",
+      "name": "Процессоры",
+      "page": "proccesors"
+    },
+    {
+      "id": 6,
+      "img": "https://rstatic.citilink.ru/react-ssr-app-catalog/838ded7e/_next/static/images/42268fadf6f7946441dbe704f0a3e1a7.png",
+      "name": "Садовая техника",
+      "page": "gardens"
+    },
+    {
+      "id": 7,
+      "img": "https://rstatic.citilink.ru/react-ssr-app-catalog/838ded7e/_next/static/images/58f96a55618954ddec82058820b03a30.png",
+      "name": "Стиральные машины",
+      "page": "washings"
+    },
+    {
+      "id": 8,
+      "img": "https://rstatic.citilink.ru/react-ssr-app-catalog/838ded7e/_next/static/images/d2cf04f7f7e48b9f69967fcbbdefe6a8.png",
+      "name": "Климатическая техника",
+      "page": "climates"
+    },
+    {
+      "id": 9,
+      "img": "https://rstatic.citilink.ru/react-ssr-app-catalog/838ded7e/_next/static/images/8d22edd256d096dc7a2350f29d696bbd.png",
+      "name": "Холодильники",
+      "page": "fridges"
+    },
+    {
+      "id": 10,
+      "img": "https://rstatic.citilink.ru/react-ssr-app-catalog/838ded7e/_next/static/images/b4332030dc0869302bffe2deb6dadb3f.png",
+      "name": "Компьютеры",
+      "page": "computers"
+    }
+  ]

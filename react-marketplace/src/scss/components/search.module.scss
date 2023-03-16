@@ -1,0 +1,42 @@
+.navigateSearch {
+    border-bottom: 1px solid grey;
+    position: relative;
+  
+    &:hover {
+      border-bottom: 1px solid #0d6efd;
+    }
+  
+    svg {
+      width: 15px;
+      height: 15px;
+      position: absolute;
+      top: 0;
+      right: 0;
+      cursor: pointer;
+  
+      &:hover {
+        path {
+          fill: #0d6efd;
+        }
+      }
+    } 
+  
+    input {
+      border: 0;
+      padding-bottom: 5px;
+      width: 800px;
+      font-size: 15px;
+    }
+  
+    .activeInput {
+      border-bottom: 1px solid #0d6efd;
+    }
+  
+    img {
+      cursor: pointer;
+      width: 15px;
+      position: absolute;
+      right: 25px;
+    }
+  }
+  
