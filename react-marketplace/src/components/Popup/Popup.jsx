@@ -32,7 +32,7 @@ const Popup = ({ onClickItem }) => {
     <div ref={popupRef} className={s.cityInfo}>
       <span onClick={() => setOpen(!open)}>
         {cityList[city]}
-        <img src="./img/arrow-down.svg" alt="Arrow-down" />
+        <img src="./../../img/arrow-down.svg" alt="Arrow-down" />
       </span>
 
       {open && (

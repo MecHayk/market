@@ -11,7 +11,7 @@ const Catalog = ({ opened, onCloseCatalog }) => {
       <div className={s.catalogItems}>
         <div className={s.catalog}>
           <div className={s.icons}>
-            <img src="./img/logo.svg" alt="Logo" />
+            <img src="./../img/logo.svg" alt="Logo" />
           </div>
 
           <div className={s.category}>
@@ -38,7 +38,7 @@ const Catalog = ({ opened, onCloseCatalog }) => {
               <img
                 className={s.close}
                 onClick={onCloseCatalog}
-                src="./img/category/close.svg"
+                src="./../img/category/close.svg"
                 alt="Close"
               />
             </div>
