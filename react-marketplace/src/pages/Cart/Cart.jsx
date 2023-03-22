@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 import { removeItems, clearCart } from '../../redux/slices/cartSlice';
 import s from '../../scss/pages/cart.module.scss';
 import { EmptyCart } from './EmptyCart';
-
+ 
 const Cart = () => {
   const cartItems = useSelector((state) => state.cart.items);
 

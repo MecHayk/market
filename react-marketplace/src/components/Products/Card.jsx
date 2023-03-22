@@ -19,7 +19,7 @@ const Card = ({ id, name, img, rating, commentsCount, price, favorited = false }
     };
     dispatch(addItemsFavorites(item));
     setIsFavorite(!isFavorite);
-  };
+  }; 
 
   const addItemToCart = () => {
     const item = {
@@ -41,11 +41,11 @@ const Card = ({ id, name, img, rating, commentsCount, price, favorited = false }
 
       <div className={s.ratingComment}>
         <div>
-          <img src="./img/categoryPage/star.svg" alt="" />
+          <img src="./../img/categoryPage/star.svg" alt="" />
           <p>{rating}</p>
         </div>
         <div>
-          <img src="./img/categoryPage/comment.svg" alt="" />
+          <img src="./../img/categoryPage/comment.svg" alt="" />
           <p>{commentsCount}</p>
         </div>
         <div className={s.favorites} onClick={addItemToFavorites}>
@@ -79,7 +79,7 @@ const Card = ({ id, name, img, rating, commentsCount, price, favorited = false }
       </div>
 
       <div className={s.cartImg} onClick={addItemToCart}>
-        <img src="./img/categoryPage/cart.svg" alt="" />
+        <img src="./../img/categoryPage/cart.svg" alt="" />
       </div>
     </div>
   );

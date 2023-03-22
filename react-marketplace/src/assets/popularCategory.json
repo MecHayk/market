@@ -15,7 +15,7 @@
       "id": 3,
       "img": "https://rstatic.citilink.ru/react-ssr-app-catalog/838ded7e/_next/static/images/d6b29269b601f06b379d38a5766b0e57.png",
       "name": "Телевизоры",
-      "page": "tvs"
+      "page": "tv"
     },
     {
       "id": 4,
@@ -27,7 +27,7 @@
       "id": 5,
       "img": "https://rstatic.citilink.ru/react-ssr-app-catalog/838ded7e/_next/static/images/579b46acaa8dfa8ded0d7f45a64722f9.png",
       "name": "Процессоры",
-      "page": "proccesors"
+      "page": "processors"
     },
     {
       "id": 6,

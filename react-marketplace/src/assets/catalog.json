@@ -2,7 +2,7 @@
   {
     "id": 1,
     "item": "Смартфоны и гаджеты",
-    "img": "./img/category/smartphone.svg",
+    "img": "./../img/category/smartphone.svg",
     "category": [
       "Смартфоны",
       "Планшеты",
@@ -20,7 +20,7 @@
   {
     "id": 2,
     "item": "Ноутбуки и компьютеры",
-    "img": "./img/category/notebook.svg",
+    "img": "./../img/category/notebook.svg",
     "category": [
       "Ноутбуки",
       "Манипуляторы и устройства ввода",
@@ -46,7 +46,7 @@
   {
     "id": 3,
     "item": "Телевизоры, аудио-видео",
-    "img": "./img/category/tv.svg",
+    "img": "./../img/category/tv.svg",
     "category": [
       "Телевизоры",
       "Аудиотехника",
@@ -71,7 +71,7 @@
   {
     "id": 4,
     "item": "Товары для геймеров",
-    "img": "./img/category/game.svg",
+    "img": "./../img/category/game.svg",
     "category": [
       "Игровые ПК",
       "XBox Microsoft",
@@ -87,7 +87,7 @@
   {
     "id": 5,
     "item": "Бытовая техника",
-    "img": "./img/category/wash.svg",
+    "img": "./../img/category/wash.svg",
     "category": [
       "Крупная бытовая техника",
       "Техника для кухни",
@@ -107,7 +107,7 @@
   {
     "id": 6,
     "item": "Красота и здоровье",
-    "img": "./img/category/beauty.svg",
+    "img": "./../img/category/beauty.svg",
     "category": [
       "Товары для укладки",
       "Товары для красоты",
@@ -125,7 +125,7 @@
   {
     "id": 7,
     "item": "Умный дом",
-    "img": "./img/category/camera.svg",
+    "img": "./../img/category/camera.svg",
     "category": [
       "Умный дом",
       "Видеонаблюдение",
@@ -137,7 +137,7 @@
   {
     "id": 8,
     "item": "Мебель и Офисная техника",
-    "img": "./img/category/chair.svg",
+    "img": "./../img/category/chair.svg",
     "category": [
       "Готовые решения",
       "Офисная техника",
@@ -165,7 +165,7 @@
   {
     "id": 9,
     "item": "Строительство и ремонт",
-    "img": "./img/category/drill.svg",
+    "img": "./../img/category/drill.svg",
     "category": [
       "Отопление и климат",
       "Шлифовальные машины",
@@ -194,7 +194,7 @@
   {
     "id": 10,
     "item": "Дом и дача",
-    "img": "./img/category/house.svg",
+    "img": "./../img/category/house.svg",
     "category": [
       "Товары для уборки снега",
       "Мебель для дома",
@@ -214,7 +214,7 @@
   {
     "id": 11,
     "item": "Автотовары",
-    "img": "./img/category/auto.svg",
+    "img": "./../img/category/auto.svg",
     "category": [
       "Автокресла",
       "Шины и диски",
@@ -231,7 +231,7 @@
   {
     "id": 12,
     "item": "Спорт и отдых",
-    "img": "./img/category/bike.svg",
+    "img": "./../img/category/bike.svg",
     "category": [
       "Товары для зимних видов спорта",
       "Рюкзаки на все случаи жизни",
@@ -255,7 +255,7 @@
   {
     "id": 13,
     "item": "Детские товары",
-    "img": "./img/category/toy.svg",
+    "img": "./../img/category/toy.svg",
     "category": [
       "Детские зимние товары",
       "Гаджеты для мам и детей",
