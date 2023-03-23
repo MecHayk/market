@@ -20,12 +20,12 @@ from rest_framework.routers import SimpleRouter
 
 
 from django.conf import settings
-from goods.views import ProductsView, CategoriesView
+from goods.views import ProductView, CategoryView
 
 router = SimpleRouter()
 
-router.register('products', ProductsView)
-router.register('categories', CategoriesView)
+router.register('api/product', ProductView)
+router.register('api/сategory', CategoryView)
 
 urlpatterns = [
     path('admin/', admin.site.urls),

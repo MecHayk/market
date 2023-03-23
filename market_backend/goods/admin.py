@@ -1,6 +1,14 @@
 from django.contrib import admin
+from django.contrib.admin import ModelAdmin
 
-from goods.models import Products, Categories
+from goods.models import Product, Category
 
-admin.site.register(Categories)
-admin.site.register(Products)
+
+@admin.register(Category)
+class CategoriesAdmin(ModelAdmin):
+    pass
+
+
+@admin.register(Product)
+class ProductsAdmin(ModelAdmin):
+    pass

@@ -1,0 +1,58 @@
+version: '3'
+
+services:
+  postgres:
+    image: postgres:latest
+    environment:
+      POSTGRES_USER: backend
+      POSTGRES_PASSWORD: backend
+      POSTGRES_DB: market_db
+      PGDATA: /data/postgres
+    ports:
+      - "5432:5432"
+    volumes:
+       - postgres:/data/postgres
+    networks:
+      - market
+    restart: unless-stopped
+
+  market_backend:
+    image: vladislavnaumov/market_backend
+    build:
+      context: ./
+      dockerfile: market_backend/Dockerfile
+    environment:
+      DJANGO_SUPERUSER_USERNAME: admin
+      DJANGO_SUPERUSER_PASSWORD: admin
+      DJANGO_SUPERUSER_EMAIL: admin@admin.com
+    ports:
+      - "8080:8080"
+    volumes:
+      - market_backend:/app/market_backend
+    networks:
+      - market
+    restart: unless-stopped
+    depends_on:
+      - postgres
+
+  pgadmin:
+    image: dpage/pgadmin4:latest
+    environment:
+      PGADMIN_DEFAULT_EMAIL: pgadmin4@pgadmin.org
+      PGADMIN_DEFAULT_PASSWORD: admin
+    ports:
+      - "5050:80"
+    networks:
+      - market
+    restart: unless-stopped
+    depends_on:
+      - postgres
+
+networks:
+  market:
+    driver: bridge
+
+volumes:
+    postgres:
+    market_backend:
+    pgadmin:

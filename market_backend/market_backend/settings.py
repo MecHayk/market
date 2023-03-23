@@ -81,8 +81,12 @@ WSGI_APPLICATION = 'market_backend.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'market_db',
+        'USER': 'backend',
+        'PASSWORD': 'backend',
+        'HOST': 'postgres',
+        'PORT': '5432',
     }
 }
 
@@ -143,6 +147,6 @@ REST_FRAMEWORK = {
         'rest_framework.parsers.JSONParser',
     ),
     'DEFAULT_FILTER_BACKENDS': (
-        'django_filters.rest_framework.DjangoFilterBackend'
+        'django_filters.rest_framework.DjangoFilterBackend',
     ),
 }
